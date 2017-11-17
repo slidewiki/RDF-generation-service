@@ -1,3 +1,5 @@
 #!/bin/bash
 
-echo "Hello: $FOO"
+java -version
+
+cat /config/config.txt
